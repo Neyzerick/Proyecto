@@ -1,0 +1,29 @@
+.nacimiento {
+    width: 400px;
+    margin: 20px;
+}
+
+.pelicula{
+    height: 400px;
+    margin: 20px;
+}
+
+.receta{
+    width: 350px;
+    height: 210px;
+    margin: 20px;
+}
+
+.manualidad{
+    max-width: 250px;
+    margin: 20px;
+}
+
+.tradiciones{
+    height: 250px;
+    margin: 20px;
+}
+.viajes{
+    height: 250px;
+    margin: 20px;
+}
